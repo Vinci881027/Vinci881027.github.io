@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Vinci Hsieh 謝文棋
+title: about
 permalink: /about/
 ---
 
+Vinci Hsieh 謝文棋
 Taiwan
 
-Majoring in Computer Science at National Central University.
+Studying in Computer Science, National Central University.
 
 There are nothing in this website.
 
